@@ -24,9 +24,9 @@ getQuantowerKeybdBtnToggleState()    {
     if (!init)    {
         init:=true
         if (!fileExist(pathOff:=A_Temp "\quantower-keybd-btn-off.png"))
-            download("https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main/quantower-keybd-btn-off.png", pathOff)
+            download("https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main-ahkv2.0/quantower-keybd-btn-off.png", pathOff)
         if (!fileExist(pathOn:=A_Temp "\quantower-keybd-btn-on.png"))
-            download("https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main/quantower-keybd-btn-on.png", pathOn)
+            download("https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main-ahkv2.0/quantower-keybd-btn-on.png", pathOn)
         bufNeedleOff:=ImagePutBuffer(pathOff)
         bufNeedleOn:=ImagePutBuffer(pathOn)
     }

@@ -16,5 +16,5 @@ Return values:
 
 ---
 
-![quantower-keybd-btn-state-0.png](https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main/docs/quantower-keybd-btn-state-0.png)
-![quantower-keybd-btn-state-1.png](https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main/docs/quantower-keybd-btn-state-1.png)
+![quantower-keybd-btn-state-0.png](https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main-ahkv2.0/docs/quantower-keybd-btn-state-0.png)
+![quantower-keybd-btn-state-1.png](https://raw.githubusercontent.com/SevenKeyboard/get-quantower-keybd-btn-toggle-state/main-ahkv2.0/docs/quantower-keybd-btn-state-1.png)
